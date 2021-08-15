@@ -1,1 +1,6 @@
+Create a twitter developer account
 
+CONSUMER_KEY='Put your devloper keys here'
+CONSUMER_SECRET='Put your devloper keys here'
+ACCESS_KEY='Put your devloper keys here'
+ACCESS_SECRET='Put your devloper keys here'
